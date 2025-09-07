@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">I'm Precious Uche Eze</h1>
+<h1 align="center">Precious Uche Eze</h1>
 <p align="center">
   <i>Software Engineer | Backend Developer | Web App Penetration Tester </i><br>
   <b>Learner @ ALX SE | Building secure, scalable systems & breaking them for good</b>
