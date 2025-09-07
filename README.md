@@ -2,32 +2,27 @@
 
 <h1 align="center">Precious Uche Eze</h1>
 <p align="center">
-  <i>Software Engineer | Backend Developer | Web App Penetration Tester | Secure Systems Enthusiast</i><br>
-  <b>ALX Backend Engineering Graduate • Turning code into secure, scalable systems</b>
+  <i>Software Engineer | Backend Developer | Web App Penetration Tester</i><br>
+  <b>Graduate of ALX SE | Building secure, scalable systems & breaking them for good</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Backend Developer** and **Web Application Penetration Tester** with a strong foundation from the **ALX Backend Development program**.  
-I specialize in building **secure, scalable backend systems** while also mastering the art of **breaking them (ethically)** to make them stronger.  
+I’ve successfully completed the **ALX Backend Development program**, equipping me with the right skills to design and implement **production-ready, scalable backend systems**.  
+I thrive at the intersection of **backend engineering and offensive security**, building applications that are both **powerful and resilient against attacks**.  
 
-- 🎓 **Graduate of ALX Backend Engineering** — hands-on experience with Python, Django, REST APIs, and DevOps tools.  
-- 🔐 Skilled in **web app pentesting**, including enumeration, exploitation, and mitigation of real-world vulnerabilities.  
-- 🛡️ I bring a **builder + breaker** mindset: designing reliable systems and stress-testing them against attacks.  
-
-🎯 **Current Focus:**  
-- Scaling backend APIs with Django + Celery + Redis  
-- Hardening apps against common exploits (SQLi, XSS, SSRF, etc.)  
-- Automating workflows for pentesting & secure deployments  
+🔹 **Now:** Applying my skills to real-world projects and open-source contributions  
+🔹 **3-Year Vision:** Become a globally sought-after backend engineer & ethical hacker  
+🔹 **5-Year Vision:** Establish a cybersecurity firm offering secure backend solutions & offensive testing services  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack & Tools
 
 ### **Stack**
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -38,7 +33,7 @@ I specialize in building **secure, scalable backend systems** while also masteri
 </p>
 
 ### **Tools**
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -48,26 +43,27 @@ I specialize in building **secure, scalable backend systems** while also masteri
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Current Projects
 
-- 🔹 **[ALX_Capstone_Project](https://github.com/CodeUche/ALX_Capstone_Project)** – Web-based app for running lightweight security scans on IPs/domains using tools like Nmap & WhatWeb. Built with **Django + Celery + Redis**.  
-- 🔹 **[Alx_DjangoLearnLab](https://github.com/CodeUche/Alx_DjangoLearnLab)** – Hands-on Django practice lab for building and scaling backend systems.  
-- 🔹 **[Python-Code-Challenges](https://github.com/CodeUche/Python-Code-Challenges)** – Algorithm challenges in Python showcasing problem-solving skills.  
-- 🔹 **[sql-crud-employee-order-schema](https://github.com/CodeUche/sql-crud-employee-order-schema)** – SQL schemas and CRUD operations with relationships and reports.  
-- 🔹 **[exception-handling-in-python](https://github.com/CodeUche/exception-handling-in-python)** – Practical guide to Python error handling for resilient applications.  
-- 🔹 **Accessible IDE (Prototype)** – IDE concept designed to empower visually impaired developers to code, debug, and deploy.  
-- 🔹 **TryHackMe Labs** – Continuous pentesting practice on real-world web apps and Linux machines.  
+- 🔹 **[ALX_Capstone_Project](https://github.com/CodeUche/ALX_Capstone_Project)** – Web-based app for running lightweight security scans on IPs/domains using tools like Nmap & WhatWeb. Scans are handled asynchronously with **Celery + Redis**.  
+- 🔹 **[Alx_DjangoLearnLab](https://github.com/CodeUche/Alx_DjangoLearnLab)** – A practical lab to deepen backend development skills with Django.  
+- 🔹 **[Python-Code-Challenges](https://github.com/CodeUche/Python-Code-Challenges)** – A growing collection of algorithm and problem-solving challenges in Python.  
+- 🔹 **[sql-crud-employee-order-schema](https://github.com/CodeUche/sql-crud-employee-order-schema)** – SQL scripts demonstrating CRUD operations, table relationships, and reporting with sample schemas.  
+- 🔹 **[exception-handling-in-python](https://github.com/CodeUche/exception-handling-in-python)** – Walkthrough of Python error handling techniques for building resilient systems.  
+- 🔹 **[modules-and-packages](https://github.com/CodeUche/modules-and-packages)** – Exploring Python’s modular architecture with packages and reusable code patterns.  
+- 🔹 **Accessible IDE (Prototype)** – Designing an IDE that empowers visually impaired developers to code, debug, and deploy seamlessly.  
+- 🔹 **TryHackMe Labs** – Practicing real-world web app and Linux machine penetration testing.  
 
 ---
 
-## 🌍 Vision in Action
+## 🌍 My Vision in Action
 
 > *“Code should be accessible, secure, and scalable.”*  
 
-That’s why I build tools and workflows that deliver:  
-- ✅ Simulated cyberattacks for **defense training**  
-- ✅ Backend APIs hardened against **real-world exploits**  
-- ✅ Developer tools that empower *everyone* — including the visually impaired  
+That’s why I’m focused on building tools and workflows that support:
+- ✅ Simulated cyberattacks for defense training  
+- ✅ Backend APIs hardened against real-world exploits  
+- ✅ Developer tools that *everyone* can use — including the visually impaired  
 
 ---
 
@@ -81,14 +77,19 @@ That’s why I build tools and workflows that deliver:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeUche&layout=compact&theme=radical" alt="languages" />
 </p>
 
+<p align="center">
+  🔥 <b>Longest Streak:</b> June 1, 2025 – August 31, 2025  
+</p>
+
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/devsecopsguru"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/kingwill"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-</p>
+- 🖇️ [LinkedIn](https://linkedin.com/in/devsecopsguru)  
+- 📚 [TryHackMe](https://tryhackme.com/p/kingwill)  
+- 🌱 Open to collaborations on open-source, security tools, or accessible tech  
+
+---
 
 <p align="center">
   <i>In a world full of insecure apps, be the builder and the breaker.</i>
