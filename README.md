@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’ve successfully completed the **ALX Backend Development program**, equipping me with the right skills to design and implement **production-ready, scalable backend systems**.  
 I thrive at the intersection of **backend engineering and offensive security**, building applications that are both **powerful and resilient against attacks**.  
@@ -19,7 +19,7 @@ I thrive at the intersection of **backend engineering and offensive security**, 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### **Stack**
 <p>
@@ -43,7 +43,7 @@ I thrive at the intersection of **backend engineering and offensive security**, 
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
 - 🔹 **[ALX_Capstone_Project](https://github.com/CodeUche/ALX_Capstone_Project)** – Web-based app for running lightweight security scans on IPs/domains using tools like Nmap & WhatWeb. Scans are handled asynchronously with **Celery + Redis**.  
 - 🔹 **[Alx_DjangoLearnLab](https://github.com/CodeUche/Alx_DjangoLearnLab)** – A practical lab to deepen backend development skills with Django.  
@@ -56,7 +56,7 @@ I thrive at the intersection of **backend engineering and offensive security**, 
 
 ---
 
-## 🌍 My Vision in Action
+## My Vision in Action
 
 > *“Code should be accessible, secure, and scalable.”*  
 
@@ -67,7 +67,7 @@ That’s why I’m focused on building tools and workflows that support:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeUche&show_icons=true&theme=radical" alt="stats" />
@@ -79,7 +79,7 @@ That’s why I’m focused on building tools and workflows that support:
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - 🖇️ [LinkedIn](https://linkedin.com/in/devsecopsguru)  
 - 📚 [TryHackMe](https://tryhackme.com/p/kingwill)  
