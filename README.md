@@ -87,5 +87,5 @@ That’s why I’m focused on building tools and workflows that support:
 ---
 
 <p align="center">
-  <i>“In a world full of insecure apps, be the builder *and* the breaker.”</i>
+  <i>“In a world full of insecure apps, be the builder and the breaker.”</i>
 </p>
