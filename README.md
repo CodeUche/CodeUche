@@ -77,10 +77,6 @@ That’s why I’m focused on building tools and workflows that support:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeUche&layout=compact&theme=radical" alt="languages" />
 </p>
 
-<p align="center">
-  🔥 <b>Longest Streak:</b> June 1, 2025 – August 31, 2025  
-</p>
-
 ---
 
 ## 🤝 Let's Connect
